@@ -5,6 +5,7 @@
 # design-resources-for-developers 中文版
 
 > **面向开发者的设计资源导航 · 中文导读版**
+>
 > 源自 GitHub 上 **67,000+ ★** 的 [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)，整理 **33 个资源分类、1,114 条设计资源**——从字体、配色、图标到 UI 框架、设计工具与灵感站，是开发者做界面时「找素材、找工具、找灵感」的一站式导航。
 
 ![Stars](https://img.shields.io/badge/GitHub%20Stars-67%2C089-B23A2E?style=flat-square)
@@ -13,6 +14,8 @@
 ![License](https://img.shields.io/badge/License-MIT-B23A2E?style=flat-square)
 
 ---
+
+⭐ 如果对你有帮助，点个 Star 支持中文开源
 
 ## 目录
 
@@ -37,6 +40,7 @@
 源项目专门为**开发者**而不是设计师整理设计资源：当你写页面需要一张配图、一套配色、一个图标库、一个组件框架，或者想找个设计网站找找灵感时，不用再满世界翻——这个仓库把 **1,114 个经过社区筛选的资源站**按 33 个分类收拢成一张大表，几乎覆盖 UI 开发的所有视觉需求。
 
 **中文版做了什么：**
+
 - 🗂️ 把源仓 **33 个分类、1,114 条资源** 整理为中文全量索引（[resources-index.md](resources-index.md)），每条附源 README 锚点直达链接；
 - ⚡ 在本 README 精选常用分类与代表资源，配中文译名 + 一句话用途；
 - 📖 提炼「找资源 → 用资源」的上手路径与 FAQ，英文站列表也不再劝退。
@@ -84,7 +88,7 @@
 精选 12 个高频分类（完整 33 个分类与 1,114 条资源见 [resources-index.md](resources-index.md)）：
 
 | 中文分类 | 英文原名 | 条目数 | 一句话用途 |
-| --- | --- | ---: | --- |
+| --- | --- | --- | ---: | --- |
 | 配色方案 | Colors | 75 | 生成/挑选网页配色与色板 |
 | 图标库 | Icons | 63 | 找开源免费图标 |
 | CSS 框架 | CSS Frameworks | 64 | Tailwind / Bootstrap 等布局框架 |
@@ -112,18 +116,23 @@
 ## 常见问题 FAQ
 
 **Q1：这些资源都免费吗？可以商用吗？**
+
 源项目本身只做**导航收录**，每个资源站的授权政策各不相同（免费、免费可商用、仅个人使用、付费等）。中文版同样不重新授权——使用前请到对应资源站官网核对 License 条款，再决定能否商用。
 
 **Q2：为什么中文版只有索引，没有把 1,114 条资源全部列出来？**
+
 中文版定位是**中文导读与索引**：33 个分类的完整名单、中文译名与直达链接都在 [resources-index.md](resources-index.md)；每条资源的完整条目仍以源仓 README 为准（点锚点直达），这样既能保持中文可读性，又能和源项目同步更新。
 
 **Q3：我用 Vue / Angular / Svelte，有对应分类吗？**
+
 有。源仓专门为主流框架拆了分类：React UI Libraries（74）、Vue UI Libraries（43）、Angular UI Libraries（18）、Svelte UI Libraries（14）、React Native UI Libraries（12），按你项目所用框架直接进对应分类选型即可。
 
 **Q4：发现某个资源站挂了或者信息过时怎么办？**
+
 资源站会下线、改版。建议：① 先到源仓 README 对应分类确认官方列表是否已更新；② 如果是中文版索引里的译名/链接问题，欢迎提 Issue 或 PR 修正；③ 想新增资源，请按源仓 [contributing.md](https://github.com/bradtraversy/design-resources-for-developers/blob/master/contributing.md) 向源项目提交。
 
 **Q5：这个中文版和源项目是什么关系？**
+
 本项目是源项目的**中文二次开发（索引 + 导读）**，不复制源仓全部条目原文、不替换任何资源链接；所有资源的实际收录、维护与版权归源项目作者 Brad Traversy 及社区贡献者所有，遵循 MIT License。
 
 ## 参与贡献
@@ -143,3 +152,15 @@
 - 本仓库代码与文档：**MIT License**（见 [LICENSE](LICENSE)，Copyright (c) 2026 zieang88888）；
 - 源项目 [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)：**MIT License**（源 LICENSE Copyright (c) 2020 Brad Traversy）；
 - 第三方声明与完整署名见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
+
+## 姊妹项目
+
+中文开源矩阵，一网打尽开发者的知识库：
+
+- [zhskills · 中文技能库](https://github.com/zieang88888/zhskills)
+- [awesome-ai-tools-zh · AI 工具导航](https://github.com/zieang88888/awesome-ai-tools-zh)
+- [free-programming-books-zh · 编程书籍大全](https://github.com/zieang88888/free-programming-books-zh)
+- [system-design-zh · 系统设计面试](https://github.com/zieang88888/system-design-zh)
+- [awesome-python-zh · Python 生态导航](https://github.com/zieang88888/awesome-python-zh)
+- [ohmyzsh-zh · 终端效率神器](https://github.com/zieang88888/ohmyzsh-zh)
+- [llm-course-zh · LLM 课程导航](https://github.com/zieang88888/llm-course-zh)
