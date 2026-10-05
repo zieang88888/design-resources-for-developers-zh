@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260" viewBox="0 0 960 260"><rect x="0" y="0" width="960" height="260" fill="#FAF6EF" stroke="#B23A2E" stroke-width="4" rx="18"/>
+<text x="40" y="40" font-family="Noto Sans CJK SC, sans-serif" font-size="15" fill="#B23A2E" font-weight="bold" text-anchor="start">&gt; design-resources --zh</text>
+<text x="480" y="108" font-family="Noto Sans CJK SC, sans-serif" font-size="52" fill="#B23A2E" font-weight="bold" text-anchor="middle">设计资源大全 · 中文版</text>
+<text x="480" y="150" font-family="Noto Sans CJK SC, sans-serif" font-size="22" fill="#1F1B16" font-weight="normal" text-anchor="middle">1,114 条设计资源 · 33 个分类 · 覆盖字体 / 配色 / 组件 / 工具</text>
+<rect x="40" y="178" width="200" height="36" fill="#B23A2E" stroke="#B23A2E" stroke-width="0" rx="18"/>
+<text x="140" y="203" font-family="Noto Sans CJK SC, sans-serif" font-size="19" fill="#FFFFFF" font-weight="bold" text-anchor="middle">★ 67,000+</text>
+<rect x="260" y="178" width="200" height="36" fill="#B23A2E" stroke="#B23A2E" stroke-width="0" rx="18"/>
+<text x="360" y="203" font-family="Noto Sans CJK SC, sans-serif" font-size="19" fill="#FFFFFF" font-weight="bold" text-anchor="middle">33 个分类</text>
+<rect x="480" y="178" width="200" height="36" fill="#B23A2E" stroke="#B23A2E" stroke-width="0" rx="18"/>
+<text x="580" y="203" font-family="Noto Sans CJK SC, sans-serif" font-size="19" fill="#FFFFFF" font-weight="bold" text-anchor="middle">1,114 资源</text>
+<rect x="700" y="178" width="200" height="36" fill="#B23A2E" stroke="#B23A2E" stroke-width="0" rx="18"/>
+<text x="800" y="203" font-family="Noto Sans CJK SC, sans-serif" font-size="19" fill="#FFFFFF" font-weight="bold" text-anchor="middle">MIT 开源</text>
+<text x="480" y="242" font-family="Noto Sans CJK SC, sans-serif" font-size="15" fill="#1F1B16" font-weight="normal" text-anchor="middle">基于 design-resources-for-developers（MIT）中文索引 · 为开发者整理的设计资源导航</text></svg>
